@@ -5,3 +5,4 @@ pretty_errors.egg-info
 dist
 .vscode
 *.pyc
+.idea/
